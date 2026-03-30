@@ -5,3 +5,4 @@ build/
 *.elf
 *.o
 step_response.png
+learning-guide.md
